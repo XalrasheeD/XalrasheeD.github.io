@@ -1,0 +1,6 @@
+<svg width="280" height="160" viewBox="0 0 280 160" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Red Team Operator">
+  <rect width="280" height="160" rx="14" fill="#121826"/>
+  <rect x="12" y="12" width="256" height="136" rx="10" fill="#1b2436" stroke="#314566"/>
+  <text x="24" y="64" fill="#8ad9ff" font-size="16" font-family="Arial, sans-serif" font-weight="700">RED TEAM OPERATOR</text>
+  <text x="24" y="90" fill="#c9d9f7" font-size="12" font-family="Arial, sans-serif">Zero-Point Security</text>
+</svg>

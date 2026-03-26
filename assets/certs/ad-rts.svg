@@ -1,0 +1,7 @@
+<svg width="280" height="160" viewBox="0 0 280 160" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Certified AD Red Team Specialist">
+  <rect width="280" height="160" rx="14" fill="#111b2a"/>
+  <rect x="12" y="12" width="256" height="136" rx="10" fill="#18293f" stroke="#2f4f78"/>
+  <text x="24" y="54" fill="#72f0d0" font-size="13" font-family="Arial, sans-serif" font-weight="700">CERTIFIED AD</text>
+  <text x="24" y="74" fill="#72f0d0" font-size="13" font-family="Arial, sans-serif" font-weight="700">RED TEAM SPECIALIST</text>
+  <text x="24" y="98" fill="#cfddf6" font-size="12" font-family="Arial, sans-serif">CyberWarfare Labs</text>
+</svg>
